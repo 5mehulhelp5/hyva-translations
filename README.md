@@ -1,7 +1,7 @@
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/crealoz/easy-audit-free.svg?style=flat-square)](https://packagist.org/packages/crealoz/hyva-translations)
-[![Packagist](https://img.shields.io/packagist/dt/crealoz/easy-audit-free.svg?style=flat-square)](https://packagist.org/packages/crealoz/hyva-translations/stats)
-[![Packagist](https://img.shields.io/packagist/dm/crealoz/easy-audit-free.svg?style=flat-square)](https://packagist.org/packages/crealoz/hyva-translations/stats)
+[![Latest Stable Version](https://img.shields.io/packagist/v/crealoz/hyva-translations.svg?style=flat-square)](https://packagist.org/packages/crealoz/hyva-translations)
+[![Packagist](https://img.shields.io/packagist/dt/crealoz/hyva-translations.svg?style=flat-square)](https://packagist.org/packages/crealoz/hyva-translations/stats)
+[![Packagist](https://img.shields.io/packagist/dm/crealoz/hyva-translations.svg?style=flat-square)](https://packagist.org/packages/crealoz/hyva-translations/stats)
 
 # hyva-translations
 
