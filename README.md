@@ -28,7 +28,7 @@ No additional configuration is required. The module uses Magento and Hyvä’s d
 Translations are automatically collected and exposed in `i18n/js-translation.json`. To use the `$t` function in your components:
 
 ```js
-t('Your text to translate');
+$t('Your text to translate');
 ```
 
 Or in an Alpine template:
