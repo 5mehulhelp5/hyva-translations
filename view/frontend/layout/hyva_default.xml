@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <script src="Crealoz_HyvaTranslations::js/translations.js"/>
+    </head>
+    <body>
+        <referenceContainer name="after.body.start">
+            <block class="Crealoz\HyvaTranslations\Block\HyvaTranslations" name="crealoz.hyva.translations" template="Crealoz_HyvaTranslations::translations.phtml"/>
+        </referenceContainer>
+    </body>
+</page>
