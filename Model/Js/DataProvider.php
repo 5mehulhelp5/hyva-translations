@@ -31,6 +31,9 @@ class DataProvider implements DataProviderInterface
     {
         $areaCode = $this->appState->getAreaCode();
 
+        /**
+         * Get all relevant JS and PHTML files from the base theme and the specified theme.
+         */
         $files = array_merge(
             $this->filesUtility->getJsFiles('base', $themePath),
             $this->filesUtility->getJsFiles($areaCode, $themePath),
